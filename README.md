@@ -1,2 +1,2 @@
-# ydnews
-yd news
+# yd
+bot yd news
